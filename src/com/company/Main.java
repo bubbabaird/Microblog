@@ -1,6 +1,5 @@
-package com.theironyard.charlotte;
+package com.company;
 
-<<<<<<< HEAD
 import spark.ModelAndView;
 import spark.Spark;
 import spark.template.mustache.MustacheTemplateEngine;
@@ -76,11 +75,3 @@ public class Main {
 // When the user hits submit in "messages.html", it should post
 // the text to "/create-message" which saves it in an
 // ArrayList<Message> and redirects to "/" (i.e. refreshes the page).
-=======
-public class Main {
-
-    public static void main(String[] args) {
-	// write your code here
-    }
-}
->>>>>>> c735387a03bbac0faba028b0c17afe1219162a54

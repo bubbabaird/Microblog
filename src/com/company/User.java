@@ -1,4 +1,4 @@
-package com.theironyard.charlotte;
+package com.company;
 
 public class User {
     String name;
